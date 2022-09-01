@@ -1,5 +1,9 @@
 # GDPRDTRRTM - Predictive Turret Aim System dengan Godot Engine
 
+## Software Apakah Ini?
+
+GDPRDTRRTM adalah script Godot Engine yang menunjukkan cara membuat predictive Turret Aim System dengan Godot Engine.
+
 ## Cara Mencoba Kode Ini
 
 Untuk mencoba project ini, download folder ini, kemudian buka di Godot Engine 3.4.
