@@ -10,9 +10,11 @@ GDPRDTRRTM adalah script Godot Engine yang menunjukkan cara membuat predictive T
 
 ## Cara Mencoba Kode Ini
 
-Untuk mencoba project ini, download folder ini, kemudian buka di Godot Engine 3.4.
+Untuk mencoba kode ini, Anda memerlukan Godot Engine v3.5.
 
-Selanjutnya jalankan.
+Download dan install software tersebut.
+
+Kemudian buka project ini dan jalankan.
 
 ## Pendahuluan
 
