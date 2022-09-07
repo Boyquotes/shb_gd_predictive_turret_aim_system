@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="studi-kasus-godot-engine-predictive-turret-aim"
+config/name="GDPRDTRRTM"
 run/main_scene="res://Scenes/World.tscn"
 config/icon="res://icon.png"
 
