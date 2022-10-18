@@ -1,12 +1,12 @@
-# GDPRDTRRTM - Predictive Turret Aim System dengan Godot Engine
+# SHBGDPredictiveTurretAimSystem - Predictive Turret Aim System dengan Godot Engine
 
 ## Software Apakah Ini?
 
-GDPRDTRRTM adalah script Godot Engine yang menunjukkan cara membuat predictive Turret Aim System dengan Godot Engine.
+SHBGDPredictiveTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat predictive Turret Aim System dengan Godot Engine.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/GDPRDTRRTM-1.png?raw=true)
+![ScreenShot](.readme-assets/SHBGDPredictiveTurretAimSystem-1.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
