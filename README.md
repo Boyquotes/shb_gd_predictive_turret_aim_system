@@ -1,5 +1,9 @@
 # SHBGDPredictiveTurretAimSystem - Predictive Turret Aim System dengan Godot Engine
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 SHBGDPredictiveTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat predictive Turret Aim System dengan Godot Engine.
