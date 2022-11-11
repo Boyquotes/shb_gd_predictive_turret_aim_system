@@ -1,8 +1,11 @@
 # SHBGDPredictiveTurretAimSystem - Predictive Turret Aim System dengan Godot Engine
 
-## Traktir Saya
+## Link-Link Penting
 
-Berikan saya uang gratis di https://bit.ly/shb-traktir
+- Website Utama Saya: https://bit.ly/shb-main
+- Akun GitHub Saya: https://bit.ly/shb-github
+- Channel YouTube Saya: https://bit.ly/shb-channel
+- Berikan Saya Uang Gratis (Traktir Saya): https://bit.ly/shb-traktir
 
 ## Software Apakah Ini?
 
