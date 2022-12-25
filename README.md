@@ -5,7 +5,7 @@
 - Website Utama Saya: https://bit.ly/shb-main
 - Akun GitHub Saya: https://bit.ly/shb-github
 - Channel YouTube Saya: https://bit.ly/shb-channel
-- Bayar Sesukanya: https://bit.ly/shb-traktir
+- Beri Dukungan: https://bit.ly/shb-traktir
 
 ## Software Apakah Ini?
 
