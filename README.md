@@ -2,10 +2,9 @@
 
 ## Link-Link Penting
 
-- Website Utama Saya: https://bit.ly/shb-main
-- Akun GitHub Saya: https://bit.ly/shb-github
-- Channel YouTube Saya: https://bit.ly/shb-channel
-- Beri Dukungan: https://bit.ly/shb-traktir
+- SOFTWARE GRATIS: https://shbfrlnc.github.io/
+- PENGUMUMAN: https://shbfrlnc.github.io/tags/pengumuman/
+- DUKUNG: https://shbfrlnc.github.io/dukung.html
 
 ## Software Apakah Ini?
 
