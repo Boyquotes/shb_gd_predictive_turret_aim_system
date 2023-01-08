@@ -2,7 +2,8 @@
 
 ## Link-Link Penting
 
-- SOFTWARE GRATIS: https://shbfrlnc.github.io/
+- TUTORIAL DAN SOFTWARE GRATIS: https://shbfrlnc.github.io/
+- BLOG: https://shbfrlnc.github.io/tags/blog/
 - PENGUMUMAN: https://shbfrlnc.github.io/tags/pengumuman/
 - DUKUNG: https://shbfrlnc.github.io/dukung.html
 
