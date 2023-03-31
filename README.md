@@ -1,4 +1,4 @@
-# SHBGDPredictiveTurretAimSystem - Predictive Turret Aim System dengan Godot Engine
+# shb_gd_predictive_turret_aim_system - Predictive Turret Aim System dengan Godot Engine
 
 ## Software Apakah Ini?
 
