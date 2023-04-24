@@ -2,23 +2,7 @@
 
 ## Software Apakah Ini?
 
-SHBGDPredictiveTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat predictive Turret Aim System dengan Godot Engine.
-
-## Screenshot
-
-![ScreenShot](.readme-assets/SHBGDPredictiveTurretAimSystem-1.png?raw=true)
-
-## Cara Mencoba Kode Ini
-
-Untuk mencoba kode ini, Anda memerlukan Godot Engine v3.5.
-
-Download dan install software tersebut...
-
-Kemudian buka project ini dan jalankan.
-
-## Pendahuluan
-
-Kali ini saya akan memberi contoh cara membuat predictive turret aim system di Godot Engine.
+shb_gd_predictive_turret_aim_system adalah script Godot Engine yang menunjukkan cara membuat predictive Turret Aim System dengan Godot Engine.
 
 ## Cara Kerja
 
@@ -30,6 +14,14 @@ Dengan sistem ini, turret diarahkan sedemikian rupa sehingga jika bullet ditemba
 
 Kemudian, dicari nilai kecepatan awalnya (v0) berdasarkan input yang diberikan (yang diketahui).
 
-## Struktur Project
+## Cara Mencoba Kode Ini
 
-Untuk melihat struktur project game ini, silakan buka project ini di Godot Engine.
+Untuk mencoba kode ini, Anda memerlukan Godot Engine.
+
+Download dan install software tersebut...
+
+Kemudian buka project ini dan jalankan.
+
+## Screenshot
+
+![ScreenShot](.readme-assets/SHBGDPredictiveTurretAimSystem-1.png?raw=true)
